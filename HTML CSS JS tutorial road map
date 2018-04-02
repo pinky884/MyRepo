@@ -1,0 +1,37 @@
+The cool thing of programming is that although it keeps evolving, the learning process is pretty much always the same.
+
+So, let’s assume for the sake of this answer that you’ve got 0 experience whatsoever with anything related to coding. No HTML, no CSS, no WordPress, nothing.
+
+The way you should approach this is the following:
+
+Learn the basics of how a browser work. This will help you understand what happens behind the scenes when you type in the address bar “http://facebook.com”. It’s a very basic concept, yet very important. This is a nicely written little article that will guide you through the whole thing. Start with it and then keep Googling the bits you don’t understand.
+Cool! Let’s go to the nitty gritty of web development now. The first thing you should do is learn how HTML and CSS work. These two guys are so easy, yet so important to understand. HTML and CSS are two of the languages every browser is fluent in. Be sure to become fluent yourself if you want to have some nice conversations with your browser. To learn these two guys, I’d recommend hands down to follow the curriculum from FreeCodeCamp. It’s free and it’s great.
+By now you should be able to understand how to put together a basic web page. Very likely, your pages won’t be very pretty. Fear no more, my friend. Bootstrap is here to rescue you. You can learn about Bootstrap on FreeCodeCamp as well. My suggestion here is to above and beyond what they ask you to do (I’m not gonna spoiler anything). Play around with it and you’ll soon realize how simple and important this little framework is.
+Now your pages are looking more 2017-like. Cool, time to celebrate. You can start calling yourself a junior web designer. Let’s now take this one notch further and make you a kickass web developer. In order to consider yourself a developer, you actually need to know at least one programming language (spoiler, HTML and CSS aren’t programming language). The first one that everyone should is called Javascript. My advice is to learn the basics of what is known as Vanilla Javascript (e.g. simple, plain Javascript without super powers). I would do this again on FreeCodeCamp. Keep in mind that Javascript went through quite of a massive change recently (called ES6). FreeCodeCamp doesn’t deal with it (yet). To make your life easier, here you have a list of free resources you can use (make sure you learn standard Javascript first, otherwise ES6 might be overwhelming for you):
+https://javascript30.com
+https://egghead.io/courses/learn...
+https://laracasts.com/series/es6...
+https://watchandcode.com/p/pract...
+Sweet! Now you know all the basics! Celebrate, give yourself a pat on your shoulder. It’s time to decide what you want to do with your dev-life. There are essentially three types of web developers:
+Frontend Developers - These guys handle all the user-facing part of any web application. Taking Quora as an example, the navigation bar at the top is front end, the icons in it are frontend. This textarea I’m writing in is frontend. Some of the languages and technologies frontenders use are: HTML, CSS and Javascript (yeeeey, you know all of them). This is just the beginning. In order to be a 2017/2018 market-ready frontend developer, you’ll need to learn at least one modern Javascript framework. The most common are: Angular, React, Vue and Ember. I personally use Vue as I find it much easier, yet that’s just my personal preference. If you want to get a job as a frontend developer, your best option will be React as at the moment is the king of frontend frameworks.
+Backend Developers - These guys do all the behind the scene magic that makes Quora actually post your question after you press the “Submit” button. Without backend, on the click of that button nothing would happen. Backend is that thing that you don’t see, but if it’s not there, hell you miss it! This is where it gets interesting, by now, you won’t be familiar with many of the most common backend technologies. The most popular and the ones I recommend at the moment are: PHP and Laravel, Python and Django, Javascript and Meteor or Ruby and Rails. As a beginner, I find PHP/Laravel and Ruby/Rails the easiest to start with. I’m personally a (proud) Rails developer and I reckon that as a beginner it’s pretty easy to grasp.
+Fullstack Developers - These guys handle both frontend tasks and backend tasks.
+Now you might wonder: “Yeah right, cheers Andrea. How the hell do I know if I want to be a frontend or a backend dev? Ain’t got a clue!”. Well my friend, the rule of thumb I’ve always recommended people to use is to ask themselves a couple of questions:
+
+Do I like to design and have visual feedback of what I do? Did I a lot like to design the interface of the websites I’ve made so far?
+Do I prefer to lay down the logic of any given application? Am I ok with getting little-to-none visual feedback?
+If the answers to the first two questions have been a loud HELL YEAH! then go ahead and pick a frontend framework of your choice and start getting your feet wet. If you don’t enjoy working with it, you can still change it and try a new one.
+
+Else, you might be better off learning backend first! Pick a technology that looks interesting to and start learning how it works.
+
+If you answered HELL YEAH! to all those questions, well, you might be up for becoming a fullstack developer. Learn some backend as well as some frontend and you’ll become a junior fullstack developer.
+
+What a journey you went through! From computer illiterate to web developer! Congratulations! Beware, however, that you’re just at the beginning! Technologies change super fast and if you want to be successful you need to keep up with them.
+
+Of course there’s so much more that you should learn, however, you’ll see yourself that while going through this step by step process, you’ll face some challenges that will automatically stimulate your curiosity to learn more.
+
+My advice at this point is to use your imagination. Think about some challenges that you have and come up with web applications that could help you with them. Write them down in your journal/evernote/whatsoever and start working on them!
+
+I’m actually writing as we speak a series of blog posts where I go step by step from coming up with an idea to market it. Of course, this will be way too advanced for your current self, however, it could be a very good read for your future-web-developer-self.
+
+I used this answer as inspiration to write a more comprehensive eBook where I not only explain the process (like in the answer above) but I also provide what I believe are some of the best resources to learn. Go grab a free copy here
