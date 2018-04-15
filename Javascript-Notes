@@ -9,4 +9,23 @@ Javascript comes with 9 native object constructors. they are
 - Regex()
 - Error()
 
-Js is constructed with these 9 objects along with string,number and boolean primitive values.
+Js is constructed with these 9 objects along with string,number and boolean primitive values. 
+Along with these, there is Math. But Math is not a constructor function but you can treat it as though the object is already available. Like for ex- Math.PI.
+
+Primitive types(aka simple values): string,number,boolean,null,undefined
+These are called simple values because they dont store any other data/value other than what they store unlike objects which can have multiple properties and values.
+Primitive values represent the lowest form of data & info available in javascript.
+
+Primitive values are stored by value where as complex values(objects) are stored by reference.
+Ex: 
+var num1 =10;
+var num2 = num1;
+console.log(num1 == num2) ---> true because they are compared by value.
+var num3 = new Number(10)
+var num4 = num3
+console.log(num1 == num3) ----> False because objects are stored by reference and here they are diff.
+console.log(num3 == num4) ----> true as references are same!
+
+string,boolean,number can be converted to object and then discarded after comparison.
+null,undefined -->cannot be converted to string using null.toString()/undefined.toString() as they cannot be converted to objects.
+
