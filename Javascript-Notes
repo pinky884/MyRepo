@@ -1,0 +1,12 @@
+Javascript comes with 9 native object constructors. they are 
+- Object()
+- Number()
+- String()
+- Boolean()
+- Function()
+- Array()
+- Date()
+- Regex()
+- Error()
+
+Js is constructed with these 9 objects along with string,number and boolean primitive values.
