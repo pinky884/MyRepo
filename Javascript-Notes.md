@@ -29,3 +29,16 @@ console.log(num3 == num4) ----> true as references are same!
 string,boolean,number can be converted to object and then discarded after comparison.
 null,undefined -->cannot be converted to string using null.toString()/undefined.toString() as they cannot be converted to objects.
 
+** Dot Notations vs Bracket Notations
+An object's properties can be accessed either using dot notation or using brackets.
+. notation is the most commonly used notation.
+[] notations is useful under following circumstances
+- When the property name is stored in a variable, then the property can be accessed using the variable inside a bracket
+  ```
+    var obj = {fooBar:'This is foo bar'}
+    var x = 'foo';
+    var y = 'bar';
+    var result = obj[x + y] . 
+    console.log(result);   ===> returns 'This is foo bar'
+  ```
+
