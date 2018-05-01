@@ -41,4 +41,10 @@ An object's properties can be accessed either using dot notation or using bracke
     var result = obj[x + y] . 
     console.log(result);   ===> returns 'This is foo bar'
   ```
+  - When the property name is a javascript keyword. Using dot notation to access this property value can throw syntax error but not with [] notation.
+  ```
+    var obj = {'name':'example','class':'sample'}
+    var result = obj[class]
+    console.log(result)  ===> This returns sample.
+  ```
 
